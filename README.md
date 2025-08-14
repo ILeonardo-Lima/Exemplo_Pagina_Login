@@ -9,7 +9,7 @@ Link para visualização: https://iLeonardo-Lima.github.io/Exemplo_Pagina_Login/
 <h2>Funcionalidades:</h2>
 
 <h3>- Formulário de login: </h3>Com campos para email/usuário e senha.
-<h3>- Botão de login: </h3>Estilizado e responsivo mas sem integraçõa com Backend.
+<h3>- Botão de login: </h3>Estilizado e responsivo mas sem integração Backend.
 <h3>- Recuperação de senha: </h3>Link generico que redireciona para um possivel redefinição de senha. (Apenas para demonstração).
 
 <h2>Tecnologias utilizadas:</h2>
